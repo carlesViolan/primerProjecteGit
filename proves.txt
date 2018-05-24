@@ -1,3 +1,7 @@
 Aquesta és una prova prova de funcionament en el curs d'ItAcademy sobre GitHub
 
+<<<<<<< HEAD
 nova modificació de master
+=======
+Ara fem un branch per modificar i tornem a pujar
+>>>>>>> branch1
